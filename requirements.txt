@@ -1,7 +1,5 @@
-streamlit
-openai
-Pillow
-requests
-numpy
-scikit-learn
-tqdm
+streamlit==1.35.0
+pandas==2.2.2
+transformers==4.41.2
+torch==2.3.0
+scikit-learn==1.5.0
