@@ -1,32 +1,19 @@
-# 🎨 Critique AI - Adobe Express Add-on
+# 🧠 MoodScribe
 
-**Critique AI** is an AI-powered Adobe Express Add-on that provides real-time design feedback to help users improve visual quality, accessibility, and aesthetic balance as they create. This tool acts as a virtual design mentor, empowering non-designers to create standout content with confidence.
-
----
-
-## 🚀 Features
-
-- 🔍 **Real-time design analysis**
-- 🎨 **AI-driven suggestions** (contrast, alignment, spacing, font readability)
-- ♿ **Accessibility checks** (WCAG color contrast, legibility)
-- 💡 **Educational tips** to learn design principles on the go
-- ⚙️ Runs as an **Express Add-on panel**
+**MoodScribe** is an AI-powered journaling web app that analyzes your emotional tone and suggests mood-based music and affirmations. Built with Streamlit and Hugging Face Transformers, it helps users reflect, heal, and stay mentally balanced.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 Features
 
-- Adobe Express Add-on SDK (HTML/CSS/JS)
-- Streamlit (for local AI testing interface)
-- OpenAI API (for natural language feedback)
-- Python (backend processing logic)
-- Optional: OpenCV for layout/spatial checks
+- 📝 Journal Entry Input
+- 🧠 AI-Powered Mood Detection (Happy, Sad, Calm, Motivated)
+- 🎵 Mood-Based Music Recommendations (YouTube)
+- 💬 Affirmations and Encouragements
+- 📊 Mood Progress Visualization
+- 📖 Reflection Prompts
+- 🤖 Agentic AI Suggestions (e.g., meditation, Pomodoro, helpline links)
+- 🗃️ Automatic Mood Logging (CSV)
 
 ---
 
-## 🧪 Local Setup
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/critique-ai.git
-cd critique-ai
