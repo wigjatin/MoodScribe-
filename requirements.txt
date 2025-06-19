@@ -1,0 +1,7 @@
+streamlit
+openai
+Pillow
+requests
+numpy
+scikit-learn
+tqdm
